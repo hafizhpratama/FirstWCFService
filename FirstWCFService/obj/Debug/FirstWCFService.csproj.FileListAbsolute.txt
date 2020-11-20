@@ -1,0 +1,7 @@
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\bin\FirstWCFService.dll.config
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\bin\FirstWCFService.dll
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\bin\FirstWCFService.pdb
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\obj\Debug\FirstWCFService.csprojAssemblyReference.cache
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\obj\Debug\FirstWCFService.csproj.CoreCompileInputs.cache
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\obj\Debug\FirstWCFService.dll
+C:\Users\My ASUS\source\repos\FirstWCFService\FirstWCFService\obj\Debug\FirstWCFService.pdb
